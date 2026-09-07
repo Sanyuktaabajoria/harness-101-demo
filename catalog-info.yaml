@@ -7,3 +7,5 @@ spec:
   type: service
   owner: c_sanyuktaa.bajroria@harness.io
   lifecycle: experimental
+orgIdentifier: default
+projectIdentifier: default_project
