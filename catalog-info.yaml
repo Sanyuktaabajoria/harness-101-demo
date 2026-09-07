@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+     kind: Component
+     metadata:
+       name: harness-101-demo-service
+       description: Auto-registered via IDP pipeline
+     spec:
+       type: service
+       owner: c_sanyuktaa.bajroria@harness.io
+       lifecycle: experimental
